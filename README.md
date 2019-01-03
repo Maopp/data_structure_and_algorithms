@@ -10,11 +10,11 @@ data_structure_and_algorithms
 > 时间复杂度: 一个算法执行所耗费的时间；
 > 空间复杂度: 运行完一个程序所需内存的大小。
 - 排序算法性能：
-![排序性能](/src/algorithms/images/排序性能.png)
+![排序性能](/src/images/algorithms/排序性能.png)
 > n: 数据规模；k:“桶”的个数；In-place: 占用常数内存，不占用额外内存；Out-place: 占用额外内存
 
 - 排序算法分类：
-![排序算法分类](/src/algorithms/images/排序分类.png)
+![排序算法分类](/src/images/algorithms/排序分类.png)
 
 1.冒泡排序
 2.选择排序
